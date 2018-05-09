@@ -12,6 +12,9 @@
     "postinstall": "npm run build"
   },
   "private": true,
+  "engines": {
+    "node": "8.9.0"
+  },
   "dependencies": {
     "@angular/common": "^6.0.0",
     "@angular/compiler": "^6.0.0",
